@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anime**
 
-- 📫 How to reach me **arnav.raj.cd.mec22@itbhu.ac.in**
+- 📫 How to reach me **arnav.raj.cd.mec22@itbhu.ac.in** or **arnavrajsingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
