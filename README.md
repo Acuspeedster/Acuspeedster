@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acuspeedster" alt="acuspeedster" /></a> </p>
 
-- 🔭 I’m currently working on **Core Machine Learning models**
+- 🔭 I’m currently working on **Core Machine Learning models and Backend Systems**
 
-- 🌱 I’m currently learning **DSA and NLM**
+- 🌱 I’m currently learning **Scalability and JVM**
 
-- 👯 I’m looking to collaborate on **NLM Projects**
+- 👯 I’m looking to collaborate on **NLM Projects and Blockchain Projects**
 
-- 🤝 I’m looking for help with **Backend**
+- 🤝 I’m looking for help with **Hackathons**
 
 - 💬 Ask me about **Anime**
 
